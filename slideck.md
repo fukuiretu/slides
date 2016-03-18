@@ -82,7 +82,7 @@ But only on **localhost**.
 
 ## Feature
 
-Markdown on GitHub repo will be showed as shlideshow
+Markdown on GitHub repo will be showed as slideshow
 
 * Compatible with reveal.js/revealgo
 * Embeded assets such as image files

@@ -14,15 +14,14 @@ Hi, my name is yusukebe.
 
 ## Hello World
 
-```
-package main
 
-import "fmt"
+    package main
 
-func main() {
-    fmt.Println("Hello World")
-}
-```
+    import "fmt"
+
+    func main() {
+        fmt.Println("Hello World")
+    }
 
 ---
 
